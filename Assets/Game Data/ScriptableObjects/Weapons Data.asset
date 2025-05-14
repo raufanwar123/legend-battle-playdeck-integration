@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4164ae27a0961247ad3242c99cd0900, type: 3}
+  m_Name: Weapons Data
+  m_EditorClassIdentifier: 
+  weaponsList:
+  - weaponName: CQ16
+    displayName: UMP
+    weaponSku: cq16
+    priceCoins: 0
+    isBought: 1
+    damageValue: 50
+    accuracyValue: 65
+    aimValue: 60
+    scopeValue: 30
+    rangeValue: 40
+  - weaponName: CARBINE
+    displayName: FAMAS
+    weaponSku: carbine
+    priceCoins: 15000
+    isBought: 0
+    damageValue: 60
+    accuracyValue: 70
+    aimValue: 80
+    scopeValue: 90
+    rangeValue: 60
+  - weaponName: PDR
+    displayName: AK47
+    weaponSku: pdr
+    priceCoins: 24000
+    isBought: 0
+    damageValue: 40
+    accuracyValue: 50
+    aimValue: 60
+    scopeValue: 70
+    rangeValue: 80
+  - weaponName: SNIPER
+    displayName: MP7
+    weaponSku: sniper
+    priceCoins: 40000
+    isBought: 0
+    damageValue: 100
+    accuracyValue: 100
+    aimValue: 90
+    scopeValue: 70
+    rangeValue: 80
+  - weaponName: HMG
+    displayName: AWP
+    weaponSku: hmg
+    priceCoins: 57000
+    isBought: 0
+    damageValue: 80
+    accuracyValue: 70
+    aimValue: 90
+    scopeValue: 100
+    rangeValue: 60
+  - weaponName: BAZOOKA
+    displayName: M249
+    weaponSku: bazooka
+    priceCoins: 100000
+    isBought: 0
+    damageValue: 100
+    accuracyValue: 80
+    aimValue: 70
+    scopeValue: 90
+    rangeValue: 70
+  - weaponName: MINIGUN
+    displayName: KRISS
+    weaponSku: minigun
+    priceCoins: 41000
+    isBought: 0
+    damageValue: 80
+    accuracyValue: 90
+    aimValue: 70
+    scopeValue: 80
+    rangeValue: 80
+  - weaponName: SCRIFLE
+    displayName: P90
+    weaponSku: scrifle
+    priceCoins: 48000
+    isBought: 0
+    damageValue: 70
+    accuracyValue: 80
+    aimValue: 90
+    scopeValue: 100
+    rangeValue: 75
+  - weaponName: SLUGGER
+    displayName: SCAR
+    weaponSku: slugger
+    priceCoins: 25000
+    isBought: 0
+    damageValue: 70
+    accuracyValue: 80
+    aimValue: 60
+    scopeValue: 70
+    rangeValue: 90
+  - weaponName: SMG
+    displayName: FNMAG
+    weaponSku: smg_gun
+    priceCoins: 60000
+    isBought: 0
+    damageValue: 100
+    accuracyValue: 100
+    aimValue: 90
+    scopeValue: 80
+    rangeValue: 80

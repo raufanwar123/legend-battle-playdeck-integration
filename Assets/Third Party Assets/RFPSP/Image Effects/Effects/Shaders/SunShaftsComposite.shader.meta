@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d3b1c8c1036784176946f5cfbfb7fe4c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: a15416cecbc31564ba608d5727b1bcee, type: 3}
+  - _ColorBuffer: {instanceID: 0}
+  - _Skybox: {fileID: 2800000, guid: 085a260b2d99bd54d8a8f7587c6cdd5f, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

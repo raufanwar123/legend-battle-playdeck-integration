@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NoHitMark
+  - Usable
+  - NPC
+  - gun
+  - PhysicsObject
+  - Climbable
+  - Water
+  - Dirt
+  - Metal
+  - Wood
+  - Glass
+  - Flesh
+  - Stone
+  - metal
+  - FinalDestination
+  - PickupPoint
+  - Door
+  - Conductor
+  - soldier
+  - Tornado
+  - Butter
+  - Grass
+  - Freezable
+  - PPaint
+  - water
+  - FxTemporaire
+  - SkyMasterTree
+  - Flammable
+  - Flamer
+  - NoForcePDM
+  - gun2
+  - Flag
+  - pickupcoins
+  - pickupbullets
+  - pickuphealthkit
+  - Level Parts
+  - AI Controller
+  - Cover
+  - HitBox
+  - Companion
+  - Tas
+  - WeaponGift
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Gun
+  - 
+  - MiniMap
+  - Player
+  - Bullet Shells
+  - NPCs
+  - GUICamera
+  - 
+  - 
+  - 
+  - Liquid Collision
+  - 
+  - LeanCollider
+  - Player Clip
+  - Airplane
+  - Environment
+  - Map
+  - NewUI
+  - PickUp
+  - Team
+  - 
+  - SpwanPoint
+  - 
+  - Level Parts
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Debris
+    uniqueID: 1561855295
+    locked: 0
+  - name: HitSpark
+    uniqueID: 1452714893
+    locked: 0

@@ -1,0 +1,186 @@
+# c3a1b_w3
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_0.tga
+
+# c3a1b_w7
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_1.tga
+
+# tnnl_brd1
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_2.tga
+
+# c3a2b_reac2c
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_3.tga
+
+# c3a1b_w1a
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_4.tga
+
+# yellow
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_5.tga
+
+# c3a1b_w2
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_6.tga
+
+# c3a1_w3a
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_7.tga
+
+# tnnl_flr7
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_8.tga
+
+# babtech_ceil01
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_9.tga
+
+# +0~fifties_lgt2
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_10.tga
+
+# tnnl_flr7c
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_11.tga
+
+# c3a1b_w1
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_12.tga
+
+# c3a1_w2
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_13.tga
+
+# black
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_14.tga
+
+# crete4_stp01
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_15.tga
+
+# crete2_flr01
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_16.tga
+
+# c3a2a_tnk1b
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_17.tga
+
+# c2a4x_glu
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_18.tga
+
+# c3a2_bth1
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_19.tga
+
+# +a~fifties_lgt2
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_20.tga
+
+# +0~fifts_lght01
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_21.tga
+
+# +0~generic86
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_22.tga
+
+# -0genpipe1
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_23.tga
+
+# silo2_wetdr
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_24.tga
+
+# {grate4a
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_25.tga
+
+# {rail1b
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_26.tga
+
+# {ladder1
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_27.tga
+
+# c2a3rustdoor1
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_28.tga
+
+# medkitedge1
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_29.tga
+
+# +0medkit
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd frenzy_3D_material_30.tga
+

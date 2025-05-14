@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 79424128a77cc1f469ec2a2e25f2cd8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 4920_Dumbleton_Hall_FrontWheel
+    100002: 4920_Dumbleton_Hall_FrontWheel.001
+    100004: 4920_Dumbleton_Hall_FrontWheel.002
+    100006: 4920_Dumbleton_Hall_FrontWheel.003
+    100008: 4920_Dumbleton_Hall_Gear1
+    100010: 4920_Dumbleton_Hall_Gear1.001
+    100012: 4920_Dumbleton_Hall_Gear1.002
+    100014: 4920_Dumbleton_Hall_Gear2
+    100016: 4920_Dumbleton_Hall_Gear2.001
+    100018: 4920_Dumbleton_Hall_Gear3
+    100020: 4920_Dumbleton_Hall_Gear3.001
+    100022: 4920_Dumbleton_Hall_Glass
+    100024: 4920_Dumbleton_Hall_Locomotive
+    100026: 4920_Dumbleton_Hall_MainWheel
+    100028: 4920_Dumbleton_Hall_MainWheel.001
+    100030: 4920_Dumbleton_Hall_MainWheel.002
+    100032: 4920_Dumbleton_Hall_MainWheel.003
+    100034: 4920_Dumbleton_Hall_MainWheel.004
+    100036: 4920_Dumbleton_Hall_MainWheel.005
+    100038: 4920_Dumbleton_Hall_Tender
+    100040: 4920_Dumbleton_Hall_Wheel.000
+    100042: 4920_Dumbleton_Hall_Wheel.001
+    100044: 4920_Dumbleton_Hall_Wheel.002
+    100046: 4920_Dumbleton_Hall_Wheel.003
+    100048: 4920_Dumbleton_Hall_Wheel.004
+    100050: 4920_Dumbleton_Hall_Wheel.005
+    100052: 4920_Dumblton_Hall_Tender_Coupling
+    100054: Coal
+    100056: //RootNode
+    400000: 4920_Dumbleton_Hall_FrontWheel
+    400002: 4920_Dumbleton_Hall_FrontWheel.001
+    400004: 4920_Dumbleton_Hall_FrontWheel.002
+    400006: 4920_Dumbleton_Hall_FrontWheel.003
+    400008: 4920_Dumbleton_Hall_Gear1
+    400010: 4920_Dumbleton_Hall_Gear1.001
+    400012: 4920_Dumbleton_Hall_Gear1.002
+    400014: 4920_Dumbleton_Hall_Gear2
+    400016: 4920_Dumbleton_Hall_Gear2.001
+    400018: 4920_Dumbleton_Hall_Gear3
+    400020: 4920_Dumbleton_Hall_Gear3.001
+    400022: 4920_Dumbleton_Hall_Glass
+    400024: 4920_Dumbleton_Hall_Locomotive
+    400026: 4920_Dumbleton_Hall_MainWheel
+    400028: 4920_Dumbleton_Hall_MainWheel.001
+    400030: 4920_Dumbleton_Hall_MainWheel.002
+    400032: 4920_Dumbleton_Hall_MainWheel.003
+    400034: 4920_Dumbleton_Hall_MainWheel.004
+    400036: 4920_Dumbleton_Hall_MainWheel.005
+    400038: 4920_Dumbleton_Hall_Tender
+    400040: 4920_Dumbleton_Hall_Wheel.000
+    400042: 4920_Dumbleton_Hall_Wheel.001
+    400044: 4920_Dumbleton_Hall_Wheel.002
+    400046: 4920_Dumbleton_Hall_Wheel.003
+    400048: 4920_Dumbleton_Hall_Wheel.004
+    400050: 4920_Dumbleton_Hall_Wheel.005
+    400052: 4920_Dumblton_Hall_Tender_Coupling
+    400054: Coal
+    400056: //RootNode
+    2300000: 4920_Dumbleton_Hall_FrontWheel
+    2300002: 4920_Dumbleton_Hall_FrontWheel.001
+    2300004: 4920_Dumbleton_Hall_FrontWheel.002
+    2300006: 4920_Dumbleton_Hall_FrontWheel.003
+    2300008: 4920_Dumbleton_Hall_Gear1
+    2300010: 4920_Dumbleton_Hall_Gear1.001
+    2300012: 4920_Dumbleton_Hall_Gear1.002
+    2300014: 4920_Dumbleton_Hall_Gear2
+    2300016: 4920_Dumbleton_Hall_Gear2.001
+    2300018: 4920_Dumbleton_Hall_Gear3
+    2300020: 4920_Dumbleton_Hall_Gear3.001
+    2300022: 4920_Dumbleton_Hall_Glass
+    2300024: 4920_Dumbleton_Hall_Locomotive
+    2300026: 4920_Dumbleton_Hall_MainWheel
+    2300028: 4920_Dumbleton_Hall_MainWheel.001
+    2300030: 4920_Dumbleton_Hall_MainWheel.002
+    2300032: 4920_Dumbleton_Hall_MainWheel.003
+    2300034: 4920_Dumbleton_Hall_MainWheel.004
+    2300036: 4920_Dumbleton_Hall_MainWheel.005
+    2300038: 4920_Dumbleton_Hall_Tender
+    2300040: 4920_Dumbleton_Hall_Wheel.000
+    2300042: 4920_Dumbleton_Hall_Wheel.001
+    2300044: 4920_Dumbleton_Hall_Wheel.002
+    2300046: 4920_Dumbleton_Hall_Wheel.003
+    2300048: 4920_Dumbleton_Hall_Wheel.004
+    2300050: 4920_Dumbleton_Hall_Wheel.005
+    2300052: 4920_Dumblton_Hall_Tender_Coupling
+    2300054: Coal
+    3300000: 4920_Dumbleton_Hall_FrontWheel
+    3300002: 4920_Dumbleton_Hall_FrontWheel.001
+    3300004: 4920_Dumbleton_Hall_FrontWheel.002
+    3300006: 4920_Dumbleton_Hall_FrontWheel.003
+    3300008: 4920_Dumbleton_Hall_Gear1
+    3300010: 4920_Dumbleton_Hall_Gear1.001
+    3300012: 4920_Dumbleton_Hall_Gear1.002
+    3300014: 4920_Dumbleton_Hall_Gear2
+    3300016: 4920_Dumbleton_Hall_Gear2.001
+    3300018: 4920_Dumbleton_Hall_Gear3
+    3300020: 4920_Dumbleton_Hall_Gear3.001
+    3300022: 4920_Dumbleton_Hall_Glass
+    3300024: 4920_Dumbleton_Hall_Locomotive
+    3300026: 4920_Dumbleton_Hall_MainWheel
+    3300028: 4920_Dumbleton_Hall_MainWheel.001
+    3300030: 4920_Dumbleton_Hall_MainWheel.002
+    3300032: 4920_Dumbleton_Hall_MainWheel.003
+    3300034: 4920_Dumbleton_Hall_MainWheel.004
+    3300036: 4920_Dumbleton_Hall_MainWheel.005
+    3300038: 4920_Dumbleton_Hall_Tender
+    3300040: 4920_Dumbleton_Hall_Wheel.000
+    3300042: 4920_Dumbleton_Hall_Wheel.001
+    3300044: 4920_Dumbleton_Hall_Wheel.002
+    3300046: 4920_Dumbleton_Hall_Wheel.003
+    3300048: 4920_Dumbleton_Hall_Wheel.004
+    3300050: 4920_Dumbleton_Hall_Wheel.005
+    3300052: 4920_Dumblton_Hall_Tender_Coupling
+    3300054: Coal
+    4300000: 4920_Dumbleton_Hall_MainWheel.001
+    4300002: 4920_Dumbleton_Hall_FrontWheel
+    4300004: 4920_Dumbleton_Hall_Locomotive
+    4300006: 4920_Dumbleton_Hall_Glass
+    4300008: 4920_Dumbleton_Hall_Gear1
+    4300010: 4920_Dumbleton_Hall_Gear3
+    4300012: 4920_Dumbleton_Hall_Gear2
+    4300014: 4920_Dumbleton_Hall_Tender
+    4300016: Coal
+    4300018: 4920_Dumbleton_Hall_Wheel.004
+    4300020: 4920_Dumblton_Hall_Tender_Coupling
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_4920_Dumpleton_Hall_Locomotive
+    second: {fileID: 2100000, guid: c111d5b2b8526754a820b0f718c0f259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_4920_Dumpleton_Hall_Tender
+    second: {fileID: 2100000, guid: 97f4231fb1788654299cd9bb4b3b730e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Coal
+    second: {fileID: 2100000, guid: 7d0740cff5a219047b439c1a9a0d111d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Glass
+    second: {fileID: 2100000, guid: b14d0c7bbd27ec845adad4264bd5792e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

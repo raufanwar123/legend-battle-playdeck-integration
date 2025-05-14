@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: d56dff5e266d4d44bb25a09bcd999b70
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Auto1Con_1
+    100002: Auto2Con_1
+    100004: Calle_1
+    100006: Centro_1
+    100008: Contenedor_2
+    100010: Contenedor_3
+    100012: Cubierta_QuemadaCon
+    100014: CubiertaCon
+    100016: EdificioA_1
+    100018: EdificioB_1
+    100020: EdificioC_1
+    100022: EdificioC_3
+    100024: EdificioD_1
+    100026: //RootNode
+    100028: PosteLuzCon
+    400000: Auto1Con_1
+    400002: Auto2Con_1
+    400004: Calle_1
+    400006: Centro_1
+    400008: Contenedor_2
+    400010: Contenedor_3
+    400012: Cubierta_QuemadaCon
+    400014: CubiertaCon
+    400016: EdificioA_1
+    400018: EdificioB_1
+    400020: EdificioC_1
+    400022: EdificioC_3
+    400024: EdificioD_1
+    400026: //RootNode
+    400028: PosteLuzCon
+    2300000: Auto1Con_1
+    2300002: Auto2Con_1
+    2300004: Calle_1
+    2300006: Centro_1
+    2300008: Contenedor_2
+    2300010: Contenedor_3
+    2300012: Cubierta_QuemadaCon
+    2300014: CubiertaCon
+    2300016: EdificioA_1
+    2300018: EdificioB_1
+    2300020: EdificioC_1
+    2300022: EdificioC_3
+    2300024: EdificioD_1
+    2300026: PosteLuzCon
+    3300000: Auto1Con_1
+    3300002: Auto2Con_1
+    3300004: Calle_1
+    3300006: Centro_1
+    3300008: Contenedor_2
+    3300010: Contenedor_3
+    3300012: Cubierta_QuemadaCon
+    3300014: CubiertaCon
+    3300016: EdificioA_1
+    3300018: EdificioB_1
+    3300020: EdificioC_1
+    3300022: EdificioC_3
+    3300024: EdificioD_1
+    3300026: PosteLuzCon
+    4300000: PosteLuzCon
+    4300002: Auto1Con_1
+    4300004: Auto2Con_1
+    4300006: Cubierta_QuemadaCon
+    4300008: CubiertaCon
+    4300010: Contenedor_3
+    4300012: Contenedor_2
+    4300014: Centro_1
+    4300016: Calle_1
+    4300018: EdificioD_1
+    4300020: EdificioC_3
+    4300022: EdificioC_1
+    4300024: EdificioB_1
+    4300026: EdificioA_1
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
